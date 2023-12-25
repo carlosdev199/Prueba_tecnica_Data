@@ -1,4 +1,9 @@
 # Documentación RETO: Análisis Exploratorio de Datos (EDA). Prueba Tecnica.
+
+
+##Abrir el archivo .ipynb en Google Colab o Jupyter notebook.
+
+
 ## Autor
 [CARLOS IBAÑEZ]
 
